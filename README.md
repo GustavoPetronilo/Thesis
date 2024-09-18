@@ -8,7 +8,7 @@ using Galilean Covariant Tensor Formalism.
 This work investigates the notion of a conformal group and derives a representation
 for symplectic quantum mechanics in the Galilean manifold, G, in a consistent manner
 using the Wigner function method. We study two non-Lorentzian conformal symmetries:
-the Conformal Carrollian group and the Sch¨odinger group. A symplectic Hilbert space
+the Conformal Carrollian group and the Schödinger group. A symplectic Hilbert space
 is built and unitary operators representing translations and rotations are studied, whose
 generators fulfill the Lie algebra in G. The Schr¨odinger (Klein-Gordon-like) equation for
 the wave functions in phase space is derived from this representation, where the variables
